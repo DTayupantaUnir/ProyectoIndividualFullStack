@@ -1,0 +1,7 @@
+.shipping-container{
+margin: 30px;
+}
+.shipping-button-section{
+    display: flex;
+  justify-content: center;
+}

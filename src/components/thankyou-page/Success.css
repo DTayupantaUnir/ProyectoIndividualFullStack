@@ -1,0 +1,32 @@
+/* FILEPATH: /home/davwolf/Documents/Proyectos/Unir/Actividad Individual /olimpus-store/src/components/thankyou-page/Success.css */
+
+/* Estilos para la página de agradecimiento */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.thanku-logo{
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.message {
+    font-size: 18px;
+    color: #666;
+    margin-top: 10px;
+    text-align: center;
+}
+
+

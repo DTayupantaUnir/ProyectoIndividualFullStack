@@ -1,0 +1,12 @@
+.Summary-resumen{
+  font-size: 1.5rem;  
+  line-height: 1.5;
+  margin: 30px;
+  color: blue;
+  background-color: white;
+}
+.buttons-section{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
